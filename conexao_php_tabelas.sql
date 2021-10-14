@@ -32,7 +32,7 @@ CREATE TABLE dados_pessoa_fisica(
 	complemento VARCHAR(100) NULL,
 	bairro VARCHAR(70) NULL,
 	id_cidade INT NULL,
-	id_estado INTs NULL,
+	id_estado INT NULL,
 	cep VARCHAR(10) NULL
 );
 

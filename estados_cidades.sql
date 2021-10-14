@@ -999,7 +999,7 @@ VALUES
 ('Crateús', 'CE', 230410, 6),
 ('Crato', 'CE', 230420, 6);
 
-INSERT INTO estados (nome, uf, ibge, id_pais) 
+INSERT INTO cidades (nome, uf, ibge, id_estado) 
 VALUES
 ('Croatá', 'CE', 230423, 6),
 ('Cruz', 'CE', 230425, 6),
@@ -1999,7 +1999,7 @@ VALUES
 ('Coronel João sá', 'BA', 290920, 5),
 ('Correntina', 'BA', 290930, 5);
 
-INSERT INTO estados (nome, uf, ibge, id_pais) 
+INSERT INTO cidades (nome, uf, ibge, id_estado) 
 VALUES
 ('Cotegipe', 'BA', 290940, 5),
 ('Cravolândia', 'BA', 290950, 5),
@@ -2998,7 +2998,7 @@ VALUES
 ('Santa Rita de Caldas', 'MG', 315920, 13),
 ('Santa Rita de Jacutinga', 'MG', 315930, 13);
 
-INSERT INTO estados (nome, uf, ibge, id_pais) 
+INSERT INTO cidades (nome, uf, ibge, id_estado) 
 VALUES
 ('Santa Rita de Minas', 'MG', 315935, 13),
 ('Santa Rita de Ibitipoca', 'MG', 315940, 13),
@@ -3999,7 +3999,7 @@ VALUES
 ('Arapuã', 'PR', 410165, 16),
 ('Araruna', 'PR', 410170, 16);
 
-INSERT INTO estados (nome, uf, ibge, id_pais) 
+INSERT INTO cidades (nome, uf, ibge, id_estado) 
 VALUES
 ('Araucária', 'PR', 410180, 16),
 ('Ariranha do Ivaí', 'PR', 410185, 16),
@@ -4999,7 +4999,7 @@ VALUES
 ('Pontão', 'RS', 431477, 21),
 ('Ponte Preta', 'RS', 431478, 21);
 
-INSERT INTO estados (nome, uf, ibge, id_pais) 
+INSERT INTO cidades (nome, uf, ibge, id_estado) 
 VALUES
 ('Portão', 'RS', 431480, 21),
 ('Porto Alegre', 'RS', 431490, 21),
